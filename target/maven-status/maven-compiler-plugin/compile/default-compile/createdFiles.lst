@@ -1,0 +1,3 @@
+DatabaseRepository.class
+domain\Bruker.class
+rest\BrukerRest.class
