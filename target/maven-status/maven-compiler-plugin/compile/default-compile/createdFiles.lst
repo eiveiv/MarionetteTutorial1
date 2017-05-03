@@ -1,3 +1,2 @@
-DatabaseRepository.class
-domain\Bruker.class
-rest\BrukerRest.class
+rest\UserRest.class
+domain\User.class
